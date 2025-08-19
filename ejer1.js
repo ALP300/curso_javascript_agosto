@@ -1,5 +1,4 @@
 
-
 /*
 Sistema de clasificación de rendimiento:
 Solicita al usuario su nota (0-20) y su asistencia (%). Si la nota es mayor o igual a 11 y
